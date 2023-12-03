@@ -4,7 +4,7 @@
  * _sqrt_recursion - returns the natural square root of a number
  * @n: number to calculate the square root of
  *
- * Return: natural square root of n, -1 if n does not have a natural square root
+ * Return: natural square root of n -1 if n does not have a natural square root
  */
 int _sqrt_recursion(int n)
 {
@@ -25,7 +25,7 @@ int _sqrt_recursion(int n)
  * @n: number to calculate the square root of
  * @i: iterator
  *
- * Return: natural square root of n, -1 if n does not have a natural square root
+ * Return: natural square root of n -1 if n does not have a natural square root
  */
 int sqrt_helper(int n, int i)
 {
